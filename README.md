@@ -1,1 +1,13 @@
-HEY THERE, YOU ARE NUMBER ![visitors](https://visitor-badge.glitch.me/badge?page_id=0w9&left_color=green&right_color=red) SEEING THIS PAGE!
+###             🚢
+
+####      Lennard Dorst, Germany
+      
+      
+Hey friends! 
+I am Lennard Dorst, and a full-stack developer. I love to ship smaller projects, but also stick to longer term builds. Besides of that I enjoy connecting with other builders on [buildspace](https://buildspace.so). 🦄
+
+
+My hobby besides programming is definetly biking. I have done various tours, including my latest one from Kiel -> Copenhagen. 🚴🏼‍♂️
+
+Because I dont know what to write else, here is what I'm listening to in this moment. ✨
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zv4ofhu7dfhyjmjikezdkuztwu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zv4ofhu7dfhyjmjikezdkuztwu&redirect=true)
