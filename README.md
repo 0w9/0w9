@@ -1,10 +1,10 @@
-###             🚢
+##            🚢
 
-####      Lennard Dorst, Germany
+###      Lennard Dorst
       
       
 Hey friends! 
-I am Lennard Dorst, and a full-stack developer. I love to ship smaller projects, but also stick to longer term builds. Besides of that I enjoy connecting with other builders on [buildspace](https://buildspace.so). 🦄
+I am Lennard Dorst, and a full-stack developer (born in 2005). I love to ship smaller projects, but also stick to longer term builds. Besides of that I enjoy connecting with other builders on [buildspace](https://buildspace.so). 🦄
 
 
 My hobby besides programming is definetly biking. I have done various tours, including my latest one from Kiel -> Copenhagen. 🚴🏼‍♂️
