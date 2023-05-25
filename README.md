@@ -4,3 +4,5 @@ Hey there, I'm a full-stack developer working mainly on AI projects. Currently I
 For more info read the quote below or message me on https://twitter.com/lennardeth.
 
 > Information: I do not store my personal information on GitHub. For more information please have a look at my website https://beachcode.de.
+
+[![](https://visitcount.itsvg.in/api?id=0w9&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
