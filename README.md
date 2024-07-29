@@ -1,8 +1,6 @@
-# Lennard Dorst
+Bio: https://lennard.bio
+Portfolio: https://beachcode.de
 
-Hey there, I'm a full-stack developer working mainly on AI projects. Currently I am offering development services but also work on small side projects, where I try to realease a new project once a month (or every weekend if possible).
-For more info read the quote below or message me on https://twitter.com/lennardeth.
+Email: lennard@beachcode.de
 
-> Information: I do not store my personal information on GitHub. For more information please have a look at my website https://beachcode.de.
-
-[![](https://visitcount.itsvg.in/api?id=0w9&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
+See ya!
